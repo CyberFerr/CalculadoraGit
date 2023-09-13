@@ -1,0 +1,14 @@
+C:\Users\k1fer\Desktop\CalculadoraGit\Calculator\bin\Debug\net7.0\Calculator.exe
+C:\Users\k1fer\Desktop\CalculadoraGit\Calculator\bin\Debug\net7.0\Calculator.deps.json
+C:\Users\k1fer\Desktop\CalculadoraGit\Calculator\bin\Debug\net7.0\Calculator.runtimeconfig.json
+C:\Users\k1fer\Desktop\CalculadoraGit\Calculator\bin\Debug\net7.0\Calculator.dll
+C:\Users\k1fer\Desktop\CalculadoraGit\Calculator\bin\Debug\net7.0\Calculator.pdb
+C:\Users\k1fer\Desktop\CalculadoraGit\Calculator\obj\Debug\net7.0\Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\k1fer\Desktop\CalculadoraGit\Calculator\obj\Debug\net7.0\Calculator.AssemblyInfoInputs.cache
+C:\Users\k1fer\Desktop\CalculadoraGit\Calculator\obj\Debug\net7.0\Calculator.AssemblyInfo.cs
+C:\Users\k1fer\Desktop\CalculadoraGit\Calculator\obj\Debug\net7.0\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\k1fer\Desktop\CalculadoraGit\Calculator\obj\Debug\net7.0\Calculator.dll
+C:\Users\k1fer\Desktop\CalculadoraGit\Calculator\obj\Debug\net7.0\refint\Calculator.dll
+C:\Users\k1fer\Desktop\CalculadoraGit\Calculator\obj\Debug\net7.0\Calculator.pdb
+C:\Users\k1fer\Desktop\CalculadoraGit\Calculator\obj\Debug\net7.0\Calculator.genruntimeconfig.cache
+C:\Users\k1fer\Desktop\CalculadoraGit\Calculator\obj\Debug\net7.0\ref\Calculator.dll
