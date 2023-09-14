@@ -1,3 +1,0 @@
-Udiel Inacio
-Kauã Fernandes
-
