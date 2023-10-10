@@ -1,10 +1,4 @@
-# Community Calculator
-
-## Contributors
-
-Mateus Lima Rodrigues da Silva
-
-Udiel Inacio de Oliveira Silva
+# TPA activities
 
 ## Project setup
 
