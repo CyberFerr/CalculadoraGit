@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\k1fer\\Desktop\\TPA-activities\\Calculator\\Calculator.csproj",
-      "projectName": "Calculator",
-      "projectPath": "C:\\Users\\k1fer\\Desktop\\TPA-activities\\Calculator\\Calculator.csproj",
+      "projectUniqueName": "C:\\Users\\k1fer\\Desktop\\TPA-activities\\ParImpar\\ParImpar.csproj",
+      "projectName": "ParImpar",
+      "projectPath": "C:\\Users\\k1fer\\Desktop\\TPA-activities\\ParImpar\\ParImpar.csproj",
       "packagesPath": "C:\\Users\\k1fer\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\k1fer\\Desktop\\TPA-activities\\Calculator\\obj\\",
+      "outputPath": "C:\\Users\\k1fer\\Desktop\\TPA-activities\\ParImpar\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\k1fer\\AppData\\Roaming\\NuGet\\NuGet.Config"

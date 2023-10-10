@@ -1,0 +1,14 @@
+C:\Users\k1fer\Desktop\TPA-activities\ParImpar\bin\Debug\net7.0\ParImpar.exe
+C:\Users\k1fer\Desktop\TPA-activities\ParImpar\bin\Debug\net7.0\ParImpar.deps.json
+C:\Users\k1fer\Desktop\TPA-activities\ParImpar\bin\Debug\net7.0\ParImpar.runtimeconfig.json
+C:\Users\k1fer\Desktop\TPA-activities\ParImpar\bin\Debug\net7.0\ParImpar.dll
+C:\Users\k1fer\Desktop\TPA-activities\ParImpar\bin\Debug\net7.0\ParImpar.pdb
+C:\Users\k1fer\Desktop\TPA-activities\ParImpar\obj\Debug\net7.0\ParImpar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\k1fer\Desktop\TPA-activities\ParImpar\obj\Debug\net7.0\ParImpar.AssemblyInfoInputs.cache
+C:\Users\k1fer\Desktop\TPA-activities\ParImpar\obj\Debug\net7.0\ParImpar.AssemblyInfo.cs
+C:\Users\k1fer\Desktop\TPA-activities\ParImpar\obj\Debug\net7.0\ParImpar.csproj.CoreCompileInputs.cache
+C:\Users\k1fer\Desktop\TPA-activities\ParImpar\obj\Debug\net7.0\ParImpar.dll
+C:\Users\k1fer\Desktop\TPA-activities\ParImpar\obj\Debug\net7.0\refint\ParImpar.dll
+C:\Users\k1fer\Desktop\TPA-activities\ParImpar\obj\Debug\net7.0\ParImpar.pdb
+C:\Users\k1fer\Desktop\TPA-activities\ParImpar\obj\Debug\net7.0\ParImpar.genruntimeconfig.cache
+C:\Users\k1fer\Desktop\TPA-activities\ParImpar\obj\Debug\net7.0\ref\ParImpar.dll
