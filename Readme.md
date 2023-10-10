@@ -4,9 +4,17 @@
 
 Install .NET <https://dotnet.microsoft.com/en/download>
 
-## Run application 
+## Run Calculator 
 ```
 cd Calculator
+```
+```
+dotnet run
+```
+
+## Run ParImpar 
+```
+cd ParImpar
 ```
 ```
 dotnet run
