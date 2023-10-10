@@ -3,6 +3,7 @@
 ## Contributors
 
 Mateus Lima Rodrigues da Silva
+
 Udiel Inacio de Oliveira Silva
 
 ## Project setup
