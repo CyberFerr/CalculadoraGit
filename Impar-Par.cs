@@ -3,7 +3,7 @@ using System;
 namespace MyCompiler {
     class Program {
         public static void Main(string[] args) {
-              int numero;
+               int numero;
 
    Console.WriteLine("Insira o Valor para verificação: ");
    numero = Convert.ToInt32(Console.ReadLine());
@@ -15,7 +15,8 @@ namespace MyCompiler {
    else
    {
        Console.WriteLine("Número Impar");
-   };
-        }
+   }
+        
+            }
     }
 }
