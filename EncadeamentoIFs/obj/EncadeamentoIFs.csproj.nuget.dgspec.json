@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ALUNO\\Desktop\\TPA-activities\\EncadeamentoIFs\\EncadeamentoIFs.csproj": {}
+    "C:\\Users\\ALUNO\\Desktop\\TPA-activities\\1DS-B-TPA-KAUAMELO_2310_24\\EncadeamentoIFs.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ALUNO\\Desktop\\TPA-activities\\EncadeamentoIFs\\EncadeamentoIFs.csproj": {
+    "C:\\Users\\ALUNO\\Desktop\\TPA-activities\\1DS-B-TPA-KAUAMELO_2310_24\\EncadeamentoIFs.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ALUNO\\Desktop\\TPA-activities\\EncadeamentoIFs\\EncadeamentoIFs.csproj",
+        "projectUniqueName": "C:\\Users\\ALUNO\\Desktop\\TPA-activities\\1DS-B-TPA-KAUAMELO_2310_24\\EncadeamentoIFs.csproj",
         "projectName": "EncadeamentoIFs",
-        "projectPath": "C:\\Users\\ALUNO\\Desktop\\TPA-activities\\EncadeamentoIFs\\EncadeamentoIFs.csproj",
+        "projectPath": "C:\\Users\\ALUNO\\Desktop\\TPA-activities\\1DS-B-TPA-KAUAMELO_2310_24\\EncadeamentoIFs.csproj",
         "packagesPath": "C:\\Users\\ALUNO\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ALUNO\\Desktop\\TPA-activities\\EncadeamentoIFs\\obj\\",
+        "outputPath": "C:\\Users\\ALUNO\\Desktop\\TPA-activities\\1DS-B-TPA-KAUAMELO_2310_24\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

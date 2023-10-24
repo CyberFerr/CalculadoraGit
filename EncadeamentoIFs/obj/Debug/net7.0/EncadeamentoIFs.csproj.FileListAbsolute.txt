@@ -12,3 +12,17 @@ C:\Users\ALUNO\Desktop\TPA-activities\EncadeamentoIFs\obj\Debug\net7.0\refint\En
 C:\Users\ALUNO\Desktop\TPA-activities\EncadeamentoIFs\obj\Debug\net7.0\EncadeamentoIFs.pdb
 C:\Users\ALUNO\Desktop\TPA-activities\EncadeamentoIFs\obj\Debug\net7.0\EncadeamentoIFs.genruntimeconfig.cache
 C:\Users\ALUNO\Desktop\TPA-activities\EncadeamentoIFs\obj\Debug\net7.0\ref\EncadeamentoIFs.dll
+C:\Users\ALUNO\Desktop\TPA-activities\1DS-B-TPA-KAUAMELO_2310_24\bin\Debug\net7.0\EncadeamentoIFs.exe
+C:\Users\ALUNO\Desktop\TPA-activities\1DS-B-TPA-KAUAMELO_2310_24\bin\Debug\net7.0\EncadeamentoIFs.deps.json
+C:\Users\ALUNO\Desktop\TPA-activities\1DS-B-TPA-KAUAMELO_2310_24\bin\Debug\net7.0\EncadeamentoIFs.runtimeconfig.json
+C:\Users\ALUNO\Desktop\TPA-activities\1DS-B-TPA-KAUAMELO_2310_24\bin\Debug\net7.0\EncadeamentoIFs.dll
+C:\Users\ALUNO\Desktop\TPA-activities\1DS-B-TPA-KAUAMELO_2310_24\bin\Debug\net7.0\EncadeamentoIFs.pdb
+C:\Users\ALUNO\Desktop\TPA-activities\1DS-B-TPA-KAUAMELO_2310_24\obj\Debug\net7.0\EncadeamentoIFs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ALUNO\Desktop\TPA-activities\1DS-B-TPA-KAUAMELO_2310_24\obj\Debug\net7.0\EncadeamentoIFs.AssemblyInfoInputs.cache
+C:\Users\ALUNO\Desktop\TPA-activities\1DS-B-TPA-KAUAMELO_2310_24\obj\Debug\net7.0\EncadeamentoIFs.AssemblyInfo.cs
+C:\Users\ALUNO\Desktop\TPA-activities\1DS-B-TPA-KAUAMELO_2310_24\obj\Debug\net7.0\EncadeamentoIFs.csproj.CoreCompileInputs.cache
+C:\Users\ALUNO\Desktop\TPA-activities\1DS-B-TPA-KAUAMELO_2310_24\obj\Debug\net7.0\EncadeamentoIFs.dll
+C:\Users\ALUNO\Desktop\TPA-activities\1DS-B-TPA-KAUAMELO_2310_24\obj\Debug\net7.0\refint\EncadeamentoIFs.dll
+C:\Users\ALUNO\Desktop\TPA-activities\1DS-B-TPA-KAUAMELO_2310_24\obj\Debug\net7.0\EncadeamentoIFs.pdb
+C:\Users\ALUNO\Desktop\TPA-activities\1DS-B-TPA-KAUAMELO_2310_24\obj\Debug\net7.0\EncadeamentoIFs.genruntimeconfig.cache
+C:\Users\ALUNO\Desktop\TPA-activities\1DS-B-TPA-KAUAMELO_2310_24\obj\Debug\net7.0\ref\EncadeamentoIFs.dll
